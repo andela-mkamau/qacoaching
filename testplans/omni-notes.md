@@ -14,7 +14,7 @@
 
 
 ## Test Items
-The application under test is my own fork of Omni-Notes hosted at [Github](https://github.com/andela-mkamau/Omni-Notes)
+The application under test is my own fork of Omni-Notes hosted at [Github](https://github.com/andela-mkamau/Omni-Notes).
 
 ## Features to be tested
 The following features will be tested:
